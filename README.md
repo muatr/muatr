@@ -1,11 +1,18 @@
-<h1 align="center">Hi 👋, I'm Murat Tekin Ulunisan</h1>
-<h3 align="center">Computer Engineering Student</h3>
-
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=muatr&label=Profile%20views&color=0e75b6&style=flat" alt="muatr" /> </p>
 
-<p align="left"> <a href="https://twitter.com/muratulunisan" target="blank"><img src="https://img.shields.io/twitter/follow/muratulunisan?logo=twitter&style=for-the-badge" alt="muratulunisan" /></a> </p>
+<div align="center">
+ <a href="https://github.com/muatr">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Hi+%f0%9f%91%8b,+I'm+Murat+Ulunisan;Welcome+To+My+Profile+%e2%9c%a8" alt="Typing SVG" />
+ </a>
+</div>
 
-- 🌱 I’m interested in **Cybersecurity**
+<hr>
+
+<h3 align="center">About Me</h3>
+
+- 👨🏻‍💻 I’m **Computer Engineering Student**
+
+- 👀 I’m interested in **Cybersecurity**
 
 - 📫 How to reach me **https://linktr.ee/muatr**
 
@@ -18,7 +25,7 @@
 <a href="https://kaggle.com/murattekinulunisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="murattekinulunisan" height="30" width="40" /></a>
 <a href="https://instagram.com/murattekinulunisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="murattekinulunisan" height="30" width="40" /></a>
 <a href="https://medium.com/@muatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@muatr" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/murat tekin ulunisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="murat tekin ulunisan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@muratulunisan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="murat tekin ulunisan" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/muatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="muatr" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/muatr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muatr" height="30" width="40" /></a>
 </p>
@@ -33,6 +40,8 @@
 <p><img align="center" width=2000 height="180em" src="https://github-readme-stats.vercel.app/api?username=muatr&show_icons=true&locale=en&theme=dark" alt="muatr" /></p>
 
 <p><img align="center" width=2000 height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=muatr&theme=dark" alt="muatr" /></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muatr&theme=onedark" alt="muatr" /></a> </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/muatr/muatr/output/github-contribution-grid-snake-dark.svg">
